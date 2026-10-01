@@ -204,6 +204,8 @@ When SentinelScope starts, the user is presented with an interactive menu:
 
 
 1. System Information
+<img width="1715" height="916" alt="Screenshot 2026-10-01 163406" src="https://github.com/user-attachments/assets/70580ee5-d9bd-4c43-8fa0-55fa56766809" />
+
 
 2. Vulnerability / Misconfiguration Scan
 
@@ -211,9 +213,15 @@ When SentinelScope starts, the user is presented with an interactive menu:
 
 4. Network Threat Scan
 
+<img width="1712" height="912" alt="Screenshot 2026-10-01 163425" src="https://github.com/user-attachments/assets/b0ee6ccd-f2db-4188-8653-faf8129d939b" />
+
+
 5. Persistence / Startup Scan
 
 6. Full Security Assessment
+
+<img width="1712" height="871" alt="Screenshot 2026-10-01 164337" src="https://github.com/user-attachments/assets/38c9809b-faf1-4bc0-a69d-8958d269d24d" />
+
 
 7. About
 
