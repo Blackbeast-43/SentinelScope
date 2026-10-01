@@ -219,6 +219,8 @@ When SentinelScope starts, the user is presented with an interactive menu:
 
 0. Exit
 ```
+<img width="1712" height="883" alt="Screenshot 2026-10-01 163344" src="https://github.com/user-attachments/assets/987c7a93-35b6-4533-95e6-595ea46347b8" />
+
 
 ---
 
