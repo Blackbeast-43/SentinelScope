@@ -199,7 +199,7 @@ When SentinelScope starts, the user is presented with an interactive menu:
 │          Endpoint Vulnerability & Threat Assessment      │
 │                                                          │
 │                       Version 1.0.0                      │
-│                    Created by Author                     │
+│              Created by Adhithyan Saji Kumar             │
 ╰──────────────────────────────────────────────────────────╯
 
 
